@@ -224,13 +224,13 @@ upcomings:
 # Refer to https://fontawesome.com/v4/icons/ for an ideal icon.
 # The default icon is fa-thumb-tack.
 links:
-  - title: Paper Pool is here.
-    url: https://jhagyscvrs.feishu.cn/sheets/shtcnXvN4tNwKVLO9K3dt2QgBae?sheet=18ce4c
-    icon: fa-paperclip
+  # - title: Paper Pool is here.
+  #   url: https://jhagyscvrs.feishu.cn/sheets/shtcnXvN4tNwKVLO9K3dt2QgBae?sheet=18ce4c
+  #   icon: fa-paperclip
 
-  - title: How to contribute to this website?
-    url: https://github.com/SEU-ESG/SEU-ESG.github.io/blob/master/How-To-Update.md
-    icon: fa-github
+  # - title: How to contribute to this website?
+  #   url: https://github.com/SEU-ESG/SEU-ESG.github.io/blob/master/How-To-Update.md
+  #   icon: fa-github
 
   - title: Upload a new schedule.
     url: https://github.com/lgdamefans/lgdamefans.github.io/edit/master/configs/config.yml
